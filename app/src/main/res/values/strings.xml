@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Tutorial04</string>
+    <string name="btn1">Take a photo</string>
 </resources>
